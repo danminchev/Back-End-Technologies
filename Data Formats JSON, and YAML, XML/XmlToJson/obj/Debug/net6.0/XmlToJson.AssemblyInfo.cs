@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XmlToJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41f5b370a0c152bb55a6512b485d3181c19e8de")]
 [assembly: System.Reflection.AssemblyProductAttribute("XmlToJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XmlToJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
