@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YamlToHtml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41f5b370a0c152bb55a6512b485d3181c19e8de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7433f0e1a864f443087f6e4290db9bd641552bcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("YamlToHtml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YamlToHtml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
