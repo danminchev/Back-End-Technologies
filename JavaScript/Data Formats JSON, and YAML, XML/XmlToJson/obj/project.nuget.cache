@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oe+uY2vDeOhF9wVixu4wiyEZ1IqJiOrVn9OylfQMMOzgUmF9WOToZHnUia4njKubD/bw9pEBpc7nH1hbreuyDQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Back-End-Technologies\\Data Formats JSON, and YAML, XML\\XmlToJson\\XmlToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

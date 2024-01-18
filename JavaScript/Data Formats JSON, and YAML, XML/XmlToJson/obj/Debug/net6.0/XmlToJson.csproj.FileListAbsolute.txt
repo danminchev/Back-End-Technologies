@@ -1,0 +1,17 @@
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.sourcelink.json
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+D:\GitHub\Back-End-Technologies\Data Formats JSON, and YAML, XML\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
