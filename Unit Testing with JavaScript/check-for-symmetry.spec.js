@@ -7,7 +7,7 @@ describe('isSymmetric', () => {
         const inputArray = []
 
         // Act
-        const result = isSymmetric(inputArray)
+        const result =  isSymmetric(inputArray)
 
         // Assert
         expect(result).to.be.true
