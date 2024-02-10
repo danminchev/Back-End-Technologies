@@ -1,0 +1,56 @@
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\TownsApplication.exe
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\TownsApplication.deps.json
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\TownsApplication.runtimeconfig.json
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\TownsApplication.pdb
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.AssemblyReference.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfoInputs.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfo.cs
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.CoreCompileInputs.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.sourcelink.json
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.CopyComplete
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\refint\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.pdb
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\TownsApplication.genruntimeconfig.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\TownsApplication\obj\Debug\net6.0\ref\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\TownsApplication.exe
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\TownsApplication.deps.json
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\TownsApplication.runtimeconfig.json
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\TownsApplication.pdb
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.AssemblyReference.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfoInputs.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.AssemblyInfo.cs
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.CoreCompileInputs.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.sourcelink.json
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.csproj.CopyComplete
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\refint\TownsApplication.dll
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.pdb
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\TownsApplication.genruntimeconfig.cache
+D:\GitHub\Back-End-Technologies\Integration Testing\Towns Application\TownsApplication\obj\Debug\net6.0\ref\TownsApplication.dll
